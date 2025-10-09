@@ -1,0 +1,197 @@
+[33mcommit 662215bfea35f3d47046fd35da8aae19adcde8a9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 2b4afcc 57dcc8d
+Author: Ashla <avinzon@gbox.adnu.edu.ph>
+Date:   Thu Oct 9 11:28:49 2025 +0800
+
+    Merge pull request #9 from Debs1025/SUBJ-01
+    
+    Subj 01
+
+[33mcommit 57dcc8d39b8d1fef565343f89657465b01f334e1[m[33m ([m[1;31morigin/SUBJ-01[m[33m, [m[1;32mSUBJ-01[m[33m)[m
+Merge: 5b25517 2b4afcc
+Author: Ashla <avinzon@gbox.adnu.edu.ph>
+Date:   Thu Oct 9 11:18:34 2025 +0800
+
+    Merge branch 'main' of https://github.com/Debs1025/MidtermsInteg2 into SUBJ-01
+
+[33mcommit 5b2551748fdc5b070ff8a063359f0850960eff35[m
+Author: Ashla <avinzon@gbox.adnu.edu.ph>
+Date:   Thu Oct 9 11:17:20 2025 +0800
+
+    subjectModel added
+
+[33mcommit 2b4afcceca20d7493dfcec511b2ed8b5a2ce2c84[m
+Merge: b8f06f5 ccdb2cc
+Author: YourGitHubUsername <gfpelonio@gbox.adnu.edu.ph>
+Date:   Thu Oct 9 11:14:58 2025 +0800
+
+    added model for grade
+
+[33mcommit ccdb2cc8b2b0b32272ab694e19de5e2ed15e2c32[m
+Author: YourGitHubUsername <gfpelonio@gbox.adnu.edu.ph>
+Date:   Thu Oct 9 11:09:26 2025 +0800
+
+    added model for grade
+
+[33mcommit b8f06f5ce80209666d4b6a61e3c07cfdf7b1256e[m
+Merge: f3fa1be 8da28ad
+Author: Erick De Belen <erickdebelen22@gmail.com>
+Date:   Thu Oct 9 10:34:55 2025 +0800
+
+    Merge pull request #8 from Debs1025/USR-07
+    
+    added middleware for grading route
+
+[33mcommit 8da28add0254b90bad59d695b8626f8aa9f1568d[m
+Author: Erick De Belen <erickdebelen22@gmail.com>
+Date:   Thu Oct 9 10:33:45 2025 +0800
+
+    added middleware for grading route
+
+[33mcommit f3fa1be002288a97f9ed3a23d57d6c4a45871104[m
+Merge: d3d5701 5454db2
+Author: Erick De Belen <erickdebelen22@gmail.com>
+Date:   Thu Oct 9 10:32:59 2025 +0800
+
+    Merge pull request #7 from Debs1025/USR-06
+    
+    Added user routes
+
+[33mcommit 5454db214c089e9581e6ccc3953f3322d19bbe6b[m
+Author: Erick De Belen <erickdebelen22@gmail.com>
+Date:   Thu Oct 9 10:30:40 2025 +0800
+
+    Added user routes
+
+[33mcommit d3d570185e50a5c0dcf5aee771a387d645281fee[m
+Merge: 7a2dfd3 d4fead9
+Author: Erick De Belen <erickdebelen22@gmail.com>
+Date:   Thu Oct 9 10:30:30 2025 +0800
+
+    Merge pull request #6 from Debs1025/USR-05
+    
+    added user controller
+
+[33mcommit 7a2dfd328781d30c9364654aa43663af53645a87[m
+Merge: 7ead849 4e8b258
+Author: Ashla <avinzon@gbox.adnu.edu.ph>
+Date:   Thu Oct 9 10:29:00 2025 +0800
+
+    Merge branch 'main' of https://github.com/Debs1025/MidtermsInteg2
+
+[33mcommit d4fead95d4da6b8cdea920c0470cb1f545ee367d[m
+Author: Erick De Belen <erickdebelen22@gmail.com>
+Date:   Thu Oct 9 10:28:56 2025 +0800
+
+    added user controller
+
+[33mcommit 4e8b258cd024f6315af8b091f59c23997f6357d7[m
+Merge: 360490c 49aeefe
+Author: Erick De Belen <erickdebelen22@gmail.com>
+Date:   Thu Oct 9 10:28:32 2025 +0800
+
+    Merge pull request #5 from Debs1025/USR-04
+    
+     added user auth services
+
+[33mcommit 49aeefea638264f447ec8bb410616515700056d2[m
+Author: Erick De Belen <erickdebelen22@gmail.com>
+Date:   Thu Oct 9 10:27:14 2025 +0800
+
+     added user auth services
+
+[33mcommit 360490c0de67189d7fea1b283f1e5a43e3a090d0[m
+Merge: 64bdcbd bd8deba
+Author: Erick De Belen <erickdebelen22@gmail.com>
+Date:   Thu Oct 9 10:25:37 2025 +0800
+
+    Merge pull request #4 from Debs1025/USR-03
+    
+     added reg user services
+
+[33mcommit 64bdcbde2c3477111204ce966f5777c29be420f8[m
+Merge: 7ec73a1 458f7ac
+Author: Ashla <avinzon@gbox.adnu.edu.ph>
+Date:   Thu Oct 9 10:25:16 2025 +0800
+
+    Merge pull request #3 from Debs1025/SUBJ-01
+    
+    Subj 01
+
+[33mcommit bd8debae0bb81f1860c21faadd8dea6cead52f87[m
+Author: Erick De Belen <erickdebelen22@gmail.com>
+Date:   Thu Oct 9 10:24:11 2025 +0800
+
+     added reg user services
+
+[33mcommit 458f7ac078ece58914f7a33999541d47a9671053[m
+Author: Ashla <avinzon@gbox.adnu.edu.ph>
+Date:   Thu Oct 9 10:22:32 2025 +0800
+
+    subjectModel.js added
+
+[33mcommit a72c7dbf1120ec6bfdcdd5f3f39184fa1229dab8[m
+Author: Ashla <avinzon@gbox.adnu.edu.ph>
+Date:   Wed Oct 8 23:04:07 2025 +0800
+
+    taskController code
+
+[33mcommit 992ed24559ec26f67c968a796adcbcfcb480a45e[m
+Author: Ashla <avinzon@gbox.adnu.edu.ph>
+Date:   Wed Oct 8 22:54:09 2025 +0800
+
+    Initial commit for TASK-01
+
+[33mcommit 7ec73a188585c98a63c7ea45bb5d8f4f13326acd[m
+Merge: ea4e8a1 919a548
+Author: Erick De Belen <erickdebelen22@gmail.com>
+Date:   Thu Oct 9 10:23:13 2025 +0800
+
+    Merge pull request #2 from Debs1025/USR-02
+    
+    added user validator
+
+[33mcommit 919a548d50d94d0ec6e85e2193a145c280a08a95[m
+Author: Erick De Belen <erickdebelen22@gmail.com>
+Date:   Thu Oct 9 10:21:53 2025 +0800
+
+    added user validator
+
+[33mcommit 712732098e1a2b67335283d032e8b12f448809e9[m
+Author: YourGitHubUsername <gfpelonio@gbox.adnu.edu.ph>
+Date:   Thu Oct 9 10:20:35 2025 +0800
+
+    Added grade model
+
+[33mcommit ea4e8a15f5191cf7550ccef426be5f942a39725a[m
+Merge: 0214a91 7298f29
+Author: Erick De Belen <erickdebelen22@gmail.com>
+Date:   Thu Oct 9 10:19:59 2025 +0800
+
+    Merge pull request #1 from Debs1025/USR-01
+    
+    Added user model
+
+[33mcommit 7298f29f88b4fb4544186298ad7e7c0be6a880aa[m
+Author: Erick De Belen <erickdebelen22@gmail.com>
+Date:   Thu Oct 9 10:14:08 2025 +0800
+
+    Added user model
+
+[33mcommit 0214a91695a0b3e7001cf9a1e258379890a4636d[m
+Author: Erick De Belen <erickdebelen22@gmail.com>
+Date:   Thu Oct 9 10:17:41 2025 +0800
+
+    Create README.md
+
+[33mcommit 7ead8496984f225ef1d8502f6eb8becd19814ee4[m
+Author: Ashla <avinzon@gbox.adnu.edu.ph>
+Date:   Wed Oct 8 23:04:07 2025 +0800
+
+    taskController code
+
+[33mcommit 4a909cd7843b3b008bdd537190123ab6a0246dd0[m
+Author: Ashla <avinzon@gbox.adnu.edu.ph>
+Date:   Wed Oct 8 22:54:09 2025 +0800
+
+    Initial commit for TASK-01
